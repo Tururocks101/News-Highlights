@@ -23,13 +23,13 @@ This is an apllication that list out various news sources. The user can click on
 
 ##     Prerequisites
 
-      python3.6
+      python3.8
       pip
       flask
 
 ## Technologies Used
 
-    Python3.6
+    Python3.8
 
 ### License
 
